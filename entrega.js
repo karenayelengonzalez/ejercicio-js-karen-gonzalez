@@ -35,3 +35,6 @@ if (edad >= 18) {
 } else {
   console.log("debes ser mayor de edad");
 }
+// faltaria con un FOR agregar x cantidad de niños hasta que llegue a 20
+
+// faltaria arreglar la suma total del precio de la excursion
